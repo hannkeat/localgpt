@@ -1,0 +1,532 @@
+[
+    {
+        "": "0",
+        "Question": "What prepaid plans are available with U Mobile?",
+        "Answer": "U Mobile offers several prepaid plans, including UMI 38, UMI 48, and UMI 58."
+    },
+    {
+        "": "1",
+        "Question": "How can I check my prepaid balance on U Mobile?",
+        "Answer": "You can check your prepaid balance by dialing *118# or using the U Mobile app."
+    },
+    {
+        "": "2",
+        "Question": "What is the process for porting my number to U Mobile?",
+        "Answer": "To port your number to U Mobile, visit a U Mobile store, provide ID, and fill out the MNP form."
+    },
+    {
+        "": "3",
+        "Question": "Can I use my U Mobile plan for roaming?",
+        "Answer": "Yes, U Mobile offers international roaming services. Activate it via the app or customer service."
+    },
+    {
+        "": "4",
+        "Question": "How do I subscribe to additional data for my postpaid plan?",
+        "Answer": "Subscribe to additional data through the U Mobile app or by dialing *118#."
+    },
+    {
+        "": "5",
+        "Question": "What should I do if I lose my U Mobile SIM card?",
+        "Answer": "If you lose your U Mobile SIM card, contact customer service at 018 388 1318 for assistance."
+    },
+    {
+        "": "6",
+        "Question": "Are there any family plans available with U Mobile?",
+        "Answer": "Yes, U Mobile provides family plans like the Hero P98 plan for shared data and calls."
+    },
+    {
+        "": "7",
+        "Question": "What are the benefits of the U Mobile postpaid plans?",
+        "Answer": "U Mobile postpaid plans come with benefits like unlimited calls, high-speed data, and additional add-ons."
+    },
+    {
+        "": "8",
+        "Question": "How can I activate international roaming on my U Mobile number?",
+        "Answer": "You can activate international roaming by using the U Mobile app or contacting customer service."
+    },
+    {
+        "": "9",
+        "Question": "What is the validity period for U Mobile prepaid plans?",
+        "Answer": "The validity period for U Mobile prepaid plans varies; check the specific plan for details."
+    },
+    {
+        "": "10",
+        "Question": "Can I change my U Mobile prepaid plan?",
+        "Answer": "Yes, you can change your U Mobile prepaid plan by dialing *118# or using the U Mobile app."
+    },
+    {
+        "": "11",
+        "Question": "How do I check my data usage on U Mobile?",
+        "Answer": "Check your data usage on U Mobile through the U Mobile app or by dialing *118#."
+    },
+    {
+        "": "12",
+        "Question": "Are there any loyalty rewards for long-term U Mobile customers?",
+        "Answer": "U Mobile may offer loyalty rewards for long-term customers; check the U Mobile website for details."
+    },
+    {
+        "": "13",
+        "Question": "What is the U Mobile network coverage like?",
+        "Answer": "U Mobile has extensive network coverage across Malaysia. You can check the coverage map on their website."
+    },
+    {
+        "": "14",
+        "Question": "How can I pay my U Mobile bill?",
+        "Answer": "You can pay your U Mobile bill through various methods, including online banking, the U Mobile app, or at U Mobile stores."
+    },
+    {
+        "": "15",
+        "Question": "What is the maximum speed for U Mobile's 4G LTE network?",
+        "Answer": "The maximum speed for U Mobile's 4G LTE network depends on your location and device."
+    },
+    {
+        "": "16",
+        "Question": "Is there a grace period for bill payment with U Mobile?",
+        "Answer": "U Mobile may offer a grace period for bill payment; check your bill or contact customer service for details."
+    },
+    {
+        "": "17",
+        "Question": "Can I share data with other U Mobile users?",
+        "Answer": "Yes, U Mobile allows data sharing with other U Mobile users through its DataShare feature."
+    },
+    {
+        "": "18",
+        "Question": "What is the U Mobile referral program?",
+        "Answer": "U Mobile may have a referral program where you can earn rewards for referring friends. Check the U Mobile website for details."
+    },
+    {
+        "": "19",
+        "Question": "How can I upgrade my U Mobile prepaid plan?",
+        "Answer": "You can upgrade your U Mobile prepaid plan by using the U Mobile app or contacting customer service."
+    },
+    {
+        "": "20",
+        "Question": "Does U Mobile offer insurance for mobile devices?",
+        "Answer": "U Mobile may offer insurance for mobile devices; check with customer service for available options."
+    },
+    {
+        "": "21",
+        "Question": "What is the U Mobile customer service hotline?",
+        "Answer": "The U Mobile customer service hotline is 018 388 1318."
+    },
+    {
+        "": "22",
+        "Question": "Can I change my U Mobile postpaid plan?",
+        "Answer": "Yes, you can change your U Mobile postpaid plan by using the U Mobile app or contacting customer service."
+    },
+    {
+        "": "23",
+        "Question": "Is there a U Mobile app for managing my account?",
+        "Answer": "Yes, there is a U Mobile app available for both iOS and Android devices for managing your account."
+    },
+    {
+        "": "24",
+        "Question": "What are the benefits of the U Mobile Unlimited Power Prepaid Pack?",
+        "Answer": "The U Mobile Unlimited Power Prepaid Pack offers benefits like unlimited calls and high-speed data."
+    },
+    {
+        "": "25",
+        "Question": "How do I set up voicemail on my U Mobile number?",
+        "Answer": "Set up voicemail on your U Mobile number by following the instructions in your phone's settings or contacting customer service."
+    },
+    {
+        "": "26",
+        "Question": "What is the data rollover policy for U Mobile postpaid plans?",
+        "Answer": "Check the specific U Mobile postpaid plan for details on the data rollover policy."
+    },
+    {
+        "": "27",
+        "Question": "Does U Mobile support eSIM technology?",
+        "Answer": "Yes, U Mobile supports eSIM technology for compatible devices."
+    },
+    {
+        "": "28",
+        "Question": "How can I track my order if I purchase a U Mobile SIM card online?",
+        "Answer": "You can track your U Mobile SIM card order online through the U Mobile website or contact customer service for assistance."
+    },
+    {
+        "": "29",
+        "Question": "Are there any data-free apps available with U Mobile plans?",
+        "Answer": "U Mobile may offer data-free apps with certain plans; check the plan details for information."
+    },
+    {
+        "": "30",
+        "Question": "What is the fair usage policy for unlimited calls on U Mobile plans?",
+        "Answer": "The fair usage policy for unlimited calls on U Mobile plans may vary; check the plan terms for details."
+    },
+    {
+        "": "31",
+        "Question": "Can I use my U Mobile plan in other countries without roaming?",
+        "Answer": "While U Mobile offers international roaming, it's advisable to check roaming rates and plans for each country."
+    },
+    {
+        "": "32",
+        "Question": "What are the benefits of U Mobile's Giler Unlimited GX68 plan?",
+        "Answer": "The Giler Unlimited GX68 plan offers unlimited high-speed data and unlimited calls to all networks."
+    },
+    {
+        "": "33",
+        "Question": "How do I check for the latest U Mobile promotions?",
+        "Answer": "Check the U Mobile website or app for the latest promotions and offers."
+    },
+    {
+        "": "34",
+        "Question": "Can I use U Mobile data for hotspot tethering?",
+        "Answer": "Yes, you can use U Mobile data for hotspot tethering. Check your plan for specific details."
+    },
+    {
+        "": "35",
+        "Question": "Is there a limit to the number of U Mobile supplementary lines I can have?",
+        "Answer": "The number of supplementary lines you can have may vary; check with U Mobile customer service for details."
+    },
+    {
+        "": "36",
+        "Question": "How can I activate the U Mobile Data Backpack for international roaming?",
+        "Answer": "Activate the U Mobile Data Backpack for international roaming through the U Mobile app or by contacting customer service."
+    },
+    {
+        "": "37",
+        "Question": "What is the validity period for the U Mobile GX30 prepaid plan?",
+        "Answer": "The validity period for the U Mobile GX30 prepaid plan is 30 days."
+    },
+    {
+        "": "38",
+        "Question": "Are there any discounts for students on U Mobile plans?",
+        "Answer": "U Mobile may offer student discounts on certain plans; check the U Mobile website for details."
+    },
+    {
+        "": "39",
+        "Question": "What is the U Mobile DataStrong postpaid plan?",
+        "Answer": "The U Mobile DataStrong postpaid plan provides high-speed data and unlimited calls."
+    },
+    {
+        "": "40",
+        "Question": "Can I transfer credit to another U Mobile user?",
+        "Answer": "You can transfer credit to another U Mobile user through the U Mobile app or by dialing *118#."
+    },
+    {
+        "": "41",
+        "Question": "How do I enable international direct dialing (IDD) on my U Mobile number?",
+        "Answer": "Enable international direct dialing (IDD) on your U Mobile number by contacting customer service."
+    },
+    {
+        "": "42",
+        "Question": "Are there any charges for changing my U Mobile postpaid plan?",
+        "Answer": "Charges for changing your U Mobile postpaid plan may apply; check the terms and conditions for details."
+    },
+    {
+        "": "43",
+        "Question": "What is the U Mobile community forum, and how can I join?",
+        "Answer": "The U Mobile community forum is an online platform for U Mobile users to discuss and share information. Join through the U Mobile website."
+    },
+    {
+        "": "44",
+        "Question": "Can I use my U Mobile plan on a dual SIM phone?",
+        "Answer": "Yes, you can use U Mobile on a dual SIM phone. Ensure that your phone is compatible with U Mobile's network."
+    },
+    {
+        "": "45",
+        "Question": "How can I subscribe to U Mobile's yearly prepaid plan?",
+        "Answer": "Subscribe to U Mobile's yearly prepaid plan through the U Mobile app or by dialing *118#."
+    },
+    {
+        "": "46",
+        "Question": "What is the U Mobile network's 5G coverage like?",
+        "Answer": "Check the U Mobile website for information on 5G coverage areas and availability."
+    },
+    {
+        "": "47",
+        "Question": "How can I block unwanted calls on my U Mobile number?",
+        "Answer": "Block unwanted calls on your U Mobile number through the U Mobile app or by contacting customer service."
+    },
+    {
+        "": "48",
+        "Question": "Are there any restrictions on using U Mobile for online gaming?",
+        "Answer": "There may be no specific restrictions on using U Mobile for online gaming; ensure your plan meets your data needs."
+    },
+    {
+        "": "49",
+        "Question": "What is the U Mobile Terer Data prepaid plan?",
+        "Answer": "The U Mobile Terer Data prepaid plan offers high-speed data and unlimited calls."
+    },
+    {
+        "": "50",
+        "Question": "How can I check my U Mobile bill details online?",
+        "Answer": "Check your U Mobile bill details online through the U Mobile app or website."
+    },
+    {
+        "": "51",
+        "Question": "What is the U Mobile device financing program?",
+        "Answer": "The U Mobile device financing program allows you to purchase devices on installment plans."
+    },
+    {
+        "": "52",
+        "Question": "Are there any special offers for porting to U Mobile from another carrier?",
+        "Answer": "Special offers for porting to U Mobile may be available; check the U Mobile website for promotions."
+    },
+    {
+        "": "53",
+        "Question": "Can I use U Mobile for international calls without roaming?",
+        "Answer": "While U Mobile offers international roaming, it's advisable to check roaming rates for international calls."
+    },
+    {
+        "": "54",
+        "Question": "How do I deactivate a U Mobile Value Added Service (VAS)?",
+        "Answer": "Deactivate a U Mobile Value Added Service (VAS) through the U Mobile app or by contacting customer service."
+    },
+    {
+        "": "55",
+        "Question": "What steps should I follow if my U Mobile SIM card is damaged?",
+        "Answer": "If your U Mobile SIM card is damaged, visit a U Mobile store for a replacement."
+    },
+    {
+        "": "56",
+        "Question": "Is there a trial period for U Mobile plans?",
+        "Answer": "There may not be a trial period for U Mobile plans; check the terms and conditions for details."
+    },
+    {
+        "": "57",
+        "Question": "What is the U Mobile TravelPass?",
+        "Answer": "U Mobile TravelPass is a roaming plan that provides data, calls, and SMS in selected countries."
+    },
+    {
+        "": "58",
+        "Question": "Can I use U Mobile for online banking transactions?",
+        "Answer": "Yes, you can use U Mobile for online banking transactions. Ensure you have a stable data connection."
+    },
+    {
+        "": "59",
+        "Question": "How can I redeem U Mobile rewards points?",
+        "Answer": "Redeem U Mobile rewards points through the U Mobile app or website in the rewards section."
+    },
+    {
+        "": "60",
+        "Question": "Are there any data-only plans offered by U Mobile?",
+        "Answer": "Yes, U Mobile offers data-only plans for users who primarily need data for internet access."
+    },
+    {
+        "": "61",
+        "Question": "What is the difference between U Mobile prepaid and postpaid plans?",
+        "Answer": "Prepaid plans require upfront payment, while postpaid plans are billed monthly. Both offer different benefits."
+    },
+    {
+        "": "62",
+        "Question": "How do I activate the U Mobile GoInsure 3?",
+        "Answer": "Activate U Mobile GoInsure 3 through the U Mobile app or by contacting customer service."
+    },
+    {
+        "": "63",
+        "Question": "Can I subscribe to U Mobile plans if I am not a Malaysian resident?",
+        "Answer": "Non-Malaysian residents may be eligible for certain U Mobile plans. Check with customer service for details."
+    },
+    {
+        "": "64",
+        "Question": "What is the U Mobile Internet Share Plan?",
+        "Answer": "U Mobile Internet Share Plan allows you to share data with multiple devices or family members."
+    },
+    {
+        "": "65",
+        "Question": "How can I track my data usage in real-time with U Mobile?",
+        "Answer": "Track your data usage in real-time through the U Mobile app or by dialing *118#."
+    },
+    {
+        "": "66",
+        "Question": "What are the international call rates for U Mobile plans?",
+        "Answer": "Check the U Mobile website or app for international call rates for specific countries."
+    },
+    {
+        "": "67",
+        "Question": "Can I purchase additional high-speed data after exhausting my quota?",
+        "Answer": "Yes, you can purchase additional high-speed data after exhausting your quota through the U Mobile app."
+    },
+    {
+        "": "68",
+        "Question": "What is the U Mobile GX50 postpaid plan?",
+        "Answer": "The U Mobile GX50 postpaid plan offers high-speed data, unlimited calls, and additional benefits."
+    },
+    {
+        "": "69",
+        "Question": "How do I activate the U Mobile Data Only SIM?",
+        "Answer": "Activate the U Mobile Data Only SIM through the U Mobile app or by visiting a U Mobile store."
+    },
+    {
+        "": "70",
+        "Question": "Are there any add-ons available for U Mobile prepaid plans?",
+        "Answer": "Add-ons for U Mobile prepaid plans may include extra data, calls, or validity period extensions."
+    },
+    {
+        "": "71",
+        "Question": "What is the U Mobile AnyShare family plan?",
+        "Answer": "The U Mobile AnyShare family plan allows family members to share data and enjoy unlimited calls."
+    },
+    {
+        "": "72",
+        "Question": "Can I use U Mobile for mobile tethering?",
+        "Answer": "Yes, you can use U Mobile for mobile tethering. Check your plan for specific details."
+    },
+    {
+        "": "73",
+        "Question": "How can I check for U Mobile network outages?",
+        "Answer": "Check for U Mobile network outages through the U Mobile app or by contacting customer service."
+    },
+    {
+        "": "74",
+        "Question": "What is the validity period for the U Mobile Power Prepaid Pack?",
+        "Answer": "The validity period for the U Mobile Power Prepaid Pack may vary; check the specific plan for details."
+    },
+    {
+        "": "75",
+        "Question": "Is there a loyalty program for U Mobile subscribers?",
+        "Answer": "U Mobile may offer a loyalty program for subscribers; check the U Mobile website for information."
+    },
+    {
+        "": "76",
+        "Question": "What is the U Mobile Entertainment plan?",
+        "Answer": "The U Mobile Entertainment plan may include data for streaming services and additional content."
+    },
+    {
+        "": "77",
+        "Question": "How do I change my U Mobile account password?",
+        "Answer": "Change your U Mobile account password through the U Mobile app or by contacting customer service."
+    },
+    {
+        "": "78",
+        "Question": "Can I use U Mobile for conference calls?",
+        "Answer": "Yes, you can use U Mobile for conference calls. Ensure your plan supports the required features."
+    },
+    {
+        "": "79",
+        "Question": "What is the U Mobile Video-Onz feature?",
+        "Answer": "U Mobile Video-Onz allows you to stream videos on selected platforms without consuming your data."
+    },
+    {
+        "": "80",
+        "Question": "How do I update my contact information with U Mobile?",
+        "Answer": "Update your contact information with U Mobile through the U Mobile app or by visiting a U Mobile store."
+    },
+    {
+        "": "81",
+        "Question": "What is the U Mobile e-wallet, GoPayz?",
+        "Answer": "U Mobile e-wallet, GoPayz, allows users to make payments, transfer funds, and enjoy various financial services."
+    },
+    {
+        "": "82",
+        "Question": "Can I change my U Mobile prepaid plan to a postpaid plan?",
+        "Answer": "Changing from U Mobile prepaid to postpaid may require contacting customer service or visiting a U Mobile store."
+    },
+    {
+        "": "83",
+        "Question": "How do I activate the U Mobile Share 20 plan?",
+        "Answer": "Activate the U Mobile Share 20 plan through the U Mobile app or by dialing *118#."
+    },
+    {
+        "": "84",
+        "Question": "Are there any restrictions on using U Mobile for online streaming?",
+        "Answer": "While there may not be specific restrictions, ensure your U Mobile plan meets the data needs for online streaming."
+    },
+    {
+        "": "85",
+        "Question": "What is the U Mobile MB 40 prepaid plan?",
+        "Answer": "The U Mobile MB 40 prepaid plan offers high-speed data, calls, and additional benefits."
+    },
+    {
+        "": "86",
+        "Question": "How can I transfer ownership of a U Mobile number?",
+        "Answer": "Transfer ownership of a U Mobile number by contacting customer service or visiting a U Mobile store."
+    },
+    {
+        "": "87",
+        "Question": "Can I use U Mobile for gaming on a PC or console?",
+        "Answer": "U Mobile can be used for gaming on a PC or console with suitable data plans. Check for specific gaming features."
+    },
+    {
+        "": "88",
+        "Question": "What is the U Mobile Hero Unlimited P139 plan?",
+        "Answer": "The U Mobile Hero Unlimited P139 plan offers unlimited high-speed data and additional benefits."
+    },
+    {
+        "": "89",
+        "Question": "How do I check for U Mobile 4G LTE coverage in my area?",
+        "Answer": "Check for U Mobile 4G LTE coverage in your area through the U Mobile app or website."
+    },
+    {
+        "": "90",
+        "Question": "Can I use U Mobile for online shopping transactions?",
+        "Answer": "Yes, you can use U Mobile for online shopping transactions. Ensure a secure data connection."
+    },
+    {
+        "": "91",
+        "Question": "What is the U Mobile Power Prepaid Internet plan?",
+        "Answer": "The U Mobile Power Prepaid Internet plan provides high-speed data for internet access."
+    },
+    {
+        "": "92",
+        "Question": "How do I retrieve my U Mobile voicemail password?",
+        "Answer": "Retrieve your U Mobile voicemail password through the U Mobile app or by contacting customer service."
+    },
+    {
+        "": "93",
+        "Question": "Can I use U Mobile for VoIP (Voice over Internet Protocol) calls?",
+        "Answer": "U Mobile can be used for VoIP calls; ensure your plan supports the required data speeds."
+    },
+    {
+        "": "94",
+        "Question": "What is the U Mobile Unlimited HERO P139 postpaid plan?",
+        "Answer": "The U Mobile Unlimited HERO P139 postpaid plan offers unlimited data, calls, and additional perks."
+    },
+    {
+        "": "95",
+        "Question": "How can I subscribe to U Mobile's weekly prepaid plan?",
+        "Answer": "Subscribe to U Mobile's weekly prepaid plan through the U Mobile app or by dialing *118#."
+    },
+    {
+        "": "96",
+        "Question": "Are there any U Mobile plans for senior citizens?",
+        "Answer": "Check for U Mobile plans designed for senior citizens on the U Mobile website or contact customer service."
+    },
+    {
+        "": "97",
+        "Question": "What is the U Mobile Hero Unlimited P99 plan?",
+        "Answer": "The U Mobile Hero Unlimited P99 plan provides unlimited data and calls at a lower price point."
+    },
+    {
+        "": "98",
+        "Question": "How can I deactivate a U Mobile Value Added Service (VAS)?",
+        "Answer": "Deactivate a U Mobile Value Added Service (VAS) through the U Mobile app or by contacting customer service."
+    },
+    {
+        "": "99",
+        "Question": "Is there a U Mobile app for iPad or Android tablets?",
+        "Answer": "Yes, there is a U Mobile app available for iPad and Android tablets."
+    },
+    {
+        "": "100",
+        "Question": "What is the U Mobile Giler Bagus prepaid plan?",
+        "Answer": "The U Mobile Giler Bagus prepaid plan offers high-speed data, calls, and additional benefits."
+    },
+    {
+        "": "101",
+        "Question": "How do I activate the U Mobile Prepaid Plus plan?",
+        "Answer": "Activate the U Mobile Prepaid Plus plan through the U Mobile app or by dialing *118#."
+    },
+    {
+        "": "102",
+        "Question": "Can I use U Mobile for online education and video conferencing?",
+        "Answer": "Yes, you can use U Mobile for online education and video conferencing. Check your plan for specific data allowances."
+    },
+    {
+        "": "103",
+        "Question": "What is the U Mobile Prepaid Starter Pack?",
+        "Answer": "The U Mobile Prepaid Starter Pack includes a SIM card and basic prepaid plan. Activate it through the U Mobile app or by dialing *118#."
+    },
+    {
+        "": "104",
+        "Question": "How do I check the U Mobile loyalty points balance?",
+        "Answer": "Check your U Mobile loyalty points balance through the U Mobile app or website."
+    },
+    {
+        "": "105",
+        "Question": "Can I use U Mobile to make international calls from Malaysia?",
+        "Answer": "Yes, you can use U Mobile to make international calls from Malaysia. Check the international call rates for details."
+    }
+]
