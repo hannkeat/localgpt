@@ -5,11 +5,6 @@
         "text": "####Human:\ngenerate a U Mobile FAQ prompt for What postpaid plans are available with U Mobile?\n\n###Assistant:\nU Mobile offers several postpaid plans, including including U Postpaid 38, U Postpaid 68, and U Postpaid 98.\n"
     },
     {
-        "question": "question",
-        "answer": "answer",
-        "text": "text"
-    },
-    {
         "question": "What benefit U Postpaid 38 postpaid plans are offer?",
         "answer": "U Postpaid 38 comes with 60GB High-Speed Data for 4G and 5G, and Unlimited local calls.",
         "text": "####Human:\ngenerate a U Mobile FAQ prompt for What benefit U Postpaid 38 postpaid plans are offer?\n\n###Assistant:\nU Postpaid 38 comes with 60GB High-Speed Data for 4G and 5G, and Unlimited local calls.\n"
