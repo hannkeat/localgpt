@@ -1,12 +1,7 @@
 [
     {
-        "question": "What postpaid plans are available with U Mobile?",
-        "answer": "U Mobile offers several postpaid plans, including U Postpaid 38, U Postpaid 68, and U Postpaid 98.",
-        "text": "####Human:\ngenerate a U Mobile FAQ prompt for What postpaid plans are available with U Mobile?\n\n###Assistant:\nU Mobile offers several postpaid plans, including including U Postpaid 38, U Postpaid 68, and U Postpaid 98.\n"
-    },
-    {
-        "question": "What benefit U Postpaid 38 postpaid plans are offer?",
-        "answer": "U Postpaid 38 comes with 60GB High-Speed Data for 4G and 5G, and Unlimited local calls.",
-        "text": "####Human:\ngenerate a U Mobile FAQ prompt for What benefit U Postpaid 38 postpaid plans are offer?\n\n###Assistant:\nU Postpaid 38 comes with 60GB High-Speed Data for 4G and 5G, and Unlimited local calls.\n"
+        "question": "Are there any family plans available with U Mobile?",
+        "answer": "Yes, U Mobile offers several family plans that cater to different needs and budgets. Here are some of the plans they offer: Unlimited Family Plan: This plan includes unlimited data, talk, and text for up to 5 lines, with speeds of up to 100 Mbps. The cost starts at RM 698 per month. Pro Plan: This plan offers unlimited data, talk, and text for up to 5 lines, with speeds of up to 300 Mbps. The cost starts at RM 1,498 per month. Premium Plan: This plan includes unlimited data, talk, and text for up to 5 lines, with speeds of up to 500 Mbps. The cost starts at RM 2,498 per month. All of these plans come with additional features such as: International roaming in over 80 countries, Data rollover, Access to over 10,000 Wi-Fi hotspots. It's worth noting that U Mobile also offers a 'Bring Your Own Device' (BYOD) option, which allows users to bring their own phone and plan. This can be a cost-effective option for families who already have their own devices.",
+        "text": "####Human:\ngenerate a U Mobile FAQ prompt for Are there any family plans available with U Mobile?\n\n###Assistant:\nYes, U Mobile offers several family plans that cater to different needs and budgets. Here are some of the plans they offer: Unlimited Family Plan: This plan includes unlimited data, talk, and text for up to 5 lines, with speeds of up to 100 Mbps. The cost starts at RM 698 per month. Pro Plan: This plan offers unlimited data, talk, and text for up to 5 lines, with speeds of up to 300 Mbps. The cost starts at RM 1,498 per month. Premium Plan: This plan includes unlimited data, talk, and text for up to 5 lines, with speeds of up to 500 Mbps. The cost starts at RM 2,498 per month. All of these plans come with additional features such as: International roaming in over 80 countries, Data rollover, Access to over 10,000 Wi-Fi hotspots. It's worth noting that U Mobile also offers a 'Bring Your Own Device' (BYOD) option, which allows users to bring their own phone and plan. This can be a cost-effective option for families who already have their own devices."
     }
 ]
