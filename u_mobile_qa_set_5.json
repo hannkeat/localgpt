@@ -1,25 +1,11 @@
 [
-	{
-		"Question": "Are there any family plans available with U Mobile?",
-		"Answer": "Yes, U Mobile offers several family plans that cater to different needs and budgets. Here are some of the plans they offer: Unlimited Family Plan: This plan includes unlimited data, talk, and text for up to 5 lines, with speeds of up to 100 Mbps. The cost starts at RM 698 per month. Pro Plan: This plan offers unlimited data, talk, and text for up to 5 lines, with speeds of up to 300 Mbps. The cost starts at RM 1,498 per month. Premium Plan: This plan includes unlimited data, talk, and text for up to 5 lines, with speeds of up to 500 Mbps. The cost starts at RM 2,498 per month. All of these plans come with additional features such as: International roaming in over 80 countries, Data rollover, Access to over 10,000 Wi-Fi hotspots. It's worth noting that U Mobile also offers a 'Bring Your Own Device' (BYOD) option, which allows users to bring their own phone and plan. This can be a cost-effective option for families who already have their own devices.",
-		"text": "####Human:\ngenerate a U Mobile FAQ prompt for Are there any family plans available with U Mobile?\n\n###Assistant:\nYes, U Mobile offers several family plans that cater to different needs and budgets. Here are some of the plans they offer: Unlimited Family Plan: This plan includes unlimited data, talk, and text for up to 5 lines, with speeds of up to 100 Mbps. The cost starts at RM 698 per month. Pro Plan: This plan offers unlimited data, talk, and text for up to 5 lines, with speeds of up to 300 Mbps. The cost starts at RM 1,498 per month. Premium Plan: This plan includes unlimited data, talk, and text for up to 5 lines, with speeds of up to 500 Mbps. The cost starts at RM 2,498 per month. All of these plans come with additional features such as: International roaming in over 80 countries, Data rollover, Access to over 10,000 Wi-Fi hotspots. It's worth noting that U Mobile also offers a 'Bring Your Own Device' (BYOD) option, which allows users to bring their own phone and plan. This can be a cost-effective option for families who already have their own devices."
-	},
-	{
-		"Question": "What is the U Mobile Prepaid Starter Pack?",
-		"Answer": {
-			"text": "The U Mobile Prepaid Starter Pack includes a free SIM card, 10GB data allowance (valid for 30 days), unlimited calls and texts to all networks in Malaysia, free international calls to over 100 countries, and Wi-Fi hotspot access nationwide."
-		},
-		"benefits": [
-			"Free SIM card",
-			"10GB data allowance (valid for 30 days)",
-			"Unlimited calls and texts to all networks in Malaysia",
-			"Free international calls to over 100 countries",
-			"Wi-Fi hotspot access nationwide"
-		],
-		"pricing": {
-			"monthly_price": 29.9,
-			"tax_included": true
-		},
-		"text": "####Human:\ngenerate a U Mobile FAQ prompt for What is the U Mobile Prepaid Starter Pack?\n\n###Assistant:\nThe U Mobile Prepaid Starter Pack includes a free SIM card, 10GB data allowance (valid for 30 days), unlimited calls and texts to all networks in Malaysia, free international calls to over 100 countries, and Wi-Fi hotspot access nationwide."
-	}
+  {
+    "Question": "Are there any family plans available with U Mobile?",
+    "Answer": {
+      "text": "Yes, U Mobile offers several family plans that cater to different needs and budgets. Here are some of the plans they offer: Family Postpaid Plan: This plan provides 1000GB of sharable data and free global roaming for up to 4 lines, at a cost of RM 128 per month. Additional perks include free calls across multiple lines and high-speed internet sharing."
+    },
+    "text": "####Human:\ngenerate a U Mobile FAQ prompt for Are there any family plans available with U Mobile?\n\n###Assistant:\nYes, U Mobile offers several family plans that cater to different needs and budgets. Here are some of the plans they offer: Family Postpaid Plan: This plan provides 1000GB of sharable data and free global roaming for up to 4 lines, at a cost of RM 128 per month. Additional perks include free calls across multiple lines and high-speed internet sharing.",
+    "link": "https://www.u.com.my"
+  }
+
 ]
