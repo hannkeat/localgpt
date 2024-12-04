@@ -35,16 +35,6 @@ generate a U Mobile FAQ prompt for What should I do if I lose my U Mobile SIM ca
 ###Assistant:
 If you lose your U Mobile SIM card, contact customer service at 018 388 1318 for assistance.
 "
-Are there any family plans available with U Mobile?,####Human:
-generate a U Mobile FAQ prompt for Are there any family plans available with U Mobile?
-
-###Assistant:
-Yes, U Mobile offers several family plans that cater to different needs and budgets. Here are some of the plans they offer: Unlimited Family Plan: This plan includes unlimited data, talk,
-and text for up to 5 lines, with speeds of up to 100 Mbps. The cost starts at RM 698 per month. Pro Plan: This plan offers unlimited data, talk, and text for up to 5 lines, with speeds of up to 300 Mbps.
-The cost starts at RM 1,498 per month. Premium Plan: This plan includes unlimited data, talk, and text for up to 5 lines, with speeds of up to 500 Mbps. The cost starts at RM 2,498 per month. All of
-these plans come with additional features such as: International roaming in over 80 countries Data rollover Access to over 10,000 Wi-Fi hotspots It's worth noting that U Mobile also offers a \"Bring Your
-Own Device\" (BYOD) option, which allows users to bring their own phone and plan. This can be a cost-effective option for families who already have their own devices.
-"
 What are the benefits of the U Mobile postpaid plans?,"U Mobile postpaid plans come with benefits like unlimited calls, high-speed data, and additional add-ons.","####Human:
 generate a U Mobile FAQ prompt for What are the benefits of the U Mobile postpaid plans?
 
